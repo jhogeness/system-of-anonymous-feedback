@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+<<<<<<< HEAD
 import './styles/index.css';
+=======
+import './index.css';
+>>>>>>> f7277cc (Initialize project using Create React App)
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 

@@ -34,10 +34,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.13"
+=======
+>>>>>>> f7277cc (Initialize project using Create React App)
   }
 }
